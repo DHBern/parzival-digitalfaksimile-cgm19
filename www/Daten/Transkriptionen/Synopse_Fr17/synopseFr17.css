@@ -1,0 +1,55 @@
+body	    {background-color:#F0F0F0; font-family:Lucida Grande, Junicode, Times New Roman, serif; font-size:12pt;}
+
+h1          {font-family:Arial,sans-serif; font-size:12pt; font-weight:bold;}
+h2	    {font-family:Arial,sans-serif; font-size:12pt;}
+
+p	    {margin-top:15px; margin-bottom:15px;}
+table	{line-height:20pt; font-size:12pt}
+td				{font-family:Lucida Grande, Junicode, Times New Roman, serif; font-size:14pt;}
+
+
+a:link 		{ color:black; text-decoration:none; cursor:text }
+a:visited	{ color:black; text-decoration:none; cursor:text}
+a:hover		{ color:black; text-decoration:none; cursor:text}
+a:active	{ color:black; text-decoration:none; cursor:text}
+a:focus		{ color:black; text-decoration:none; cursor:text}
+
+
+.ib         {color:blue; font-size:13pt; font-weight:bold}
+.ir         {color:red; font-size:13pt; font-weight:bold}
+.ig         {color:green; font-size:13pt; font-weight:bold}
+.is         {font-size:13pt; font-weight:bold}
+.xi         {color:#FA6450;}
+.xsi        {color:#FA6450; font-size:15pt;} 
+.si1        {color:red; font-size:17pt; background-color:gold}
+.si2        {color:red; font-size:14pt; font-weight:bold}
+.init				{ color:red; font-size:16pt }
+
+
+.v          {font-weight:bold;}
+.m          {font-style:italic}
+
+.r          {background-color:gray}
+.n          {background-color:#80FFF0} 
+
+.k          {background-color:#78C878;}
+.d          {text-decoration:line-through;}
+.g          {color:#FF00FF;}
+
+.schreiber  {font-variant:small-caps}
+.versnr		{ font-weight:bold; margin-right:5px}
+
+.ues	    {color:red; font-weight:bold}
+
+.var        {color:#804000; font-weight:bold}
+
+.zr	    {background-color:gray}
+.zd	    {text-decoration:line-through;}
+.zk	    {background-color:#78C878;}
+.zn	    {background-color:#80FFF0} 
+
+.seitenangabe	{color:blue; font-weight:bold;}
+.blau       {color:blue; font-weight:bold}
+
+.zitat {font-size: 12pt; font-family: Lucida Grande;
+}

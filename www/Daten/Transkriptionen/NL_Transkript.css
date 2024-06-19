@@ -1,0 +1,98 @@
+body	    {
+	background-color:#F0F0F0;
+}
+
+h1          {font-family:Arial,sans-serif; font-size:12pt; font-weight:bold;}
+h2	    {font-family:Arial,sans-serif; font-size:12pt; text-align:center;}
+
+p	    {font-family: Lucida Grande, Junicode, serif; margin-top:15px; margin-bottom:15px;}
+
+a:link 		{ color:black; text-decoration:none; cursor:text}
+a:visited	{ color:black; text-decoration:none; cursor:text}
+a:hover		{ color:black; text-decoration:none; cursor:text}
+a:active	{ color:black; text-decoration:none; cursor:text}
+a:focus		{ color:black; text-decoration:none; cursor:text}
+
+.faksimileLink {
+	cursor: pointer;
+}
+
+.init		{ color:red; font-size:16pt; line-height: 16px; }
+.ib         {color:blue; font-size:13pt; font-weight:bold}
+.ir         {color:red; font-size:13pt; font-weight:bold}
+.ig         {color:green; font-size:13pt; font-weight:bold}
+.is         {font-size:13pt; font-weight:bold}
+.xi         {color:#FA6450; font-size:0.7em}
+.xsi        {color:#FA6450; font-size:15pt;} 
+.si1        {color:red; font-size:17pt; background-color:gold; line-height: 16px;}
+.si2        {color:red; font-size:14pt; font-weight:bold; line-height: 16px;}
+
+.iFbr		{color:blue; font-size:13pt; font-weight:bold; background-color:#E3AC55}
+.iFrb		{color:red; font-size:13pt; font-weight:bold; background-color:#6AB5E4}
+.iFb		{color:blue; font-size:13pt; font-weight:bold}
+.iFr		{color:red; font-size:13pt; font-weight:bold}
+
+
+
+.v          {font-weight:bold;}
+.marg       {font-style:italic}
+
+.r          {background-color:gray}
+.n          {background-color:#80FFF0} 
+
+.k          { color:gray; }
+.sr	    { color:green; }
+.sr1	    { color:green; }
+.sr2	    { color:green; }
+.sr3	    { color:green; }
+.sr3?	    { color:green; }
+.sr4	    { color:green; }
+.sr?	    { color:green; }
+.ls  	    { color:#33FFFF; }
+.ls1  	    { color:#33FFFF; }
+.ls2  	    { color:#33FFFF; }
+.ls3  	    { color:#33FFFF; }
+.ls4  	    { color:#33FFFF; }
+.ls5  	    { color:#33FFFF; }
+.ls?  	    { color:#33FFFF; }
+.ras	    { background-color:gray }
+.d          {text-decoration:line-through;}
+.g          {color:#FF00FF;}
+
+.schreiber  {font-variant:small-caps; text-align:center; margin-bottom:10px; margin-top:10px}
+
+.ues	    {color:red; font-weight:bold}
+
+.var        {color:#804000; font-weight:bold}
+
+.zr	    {background-color:gray}
+.zd	    {text-decoration:line-through;}
+.zk	    {background-color:#78C878;}
+.zn	    {background-color:#80FFF0} 
+
+.blau       {color:blue;}
+
+.vers {
+		font-family: Lucida Grande, Junicode, serif ;
+}
+
+.versnr {font-weight: normal; font-size: 0.8em;  margin-right:5px;}
+.seitenangabe		{color:blue; font-weight:bold;}
+
+.rundeKlammern::before {
+    content: "(";
+}
+
+.rundeKlammern::after {
+    content: ")";
+}
+
+.pipe::before {
+  content: "|";
+}
+.nota {
+font-style:italic;
+}
+
+.zitat {font-size: 12pt; font-family: Lucida Grande;
+}
